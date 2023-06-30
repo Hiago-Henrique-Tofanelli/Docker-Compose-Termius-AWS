@@ -1,3 +1,9 @@
+# Baixar dependências do Docker
+
+```
+curl -fsSL https://get.docker.com | bash
+```
+
 # Docker-Compose-Termius-AWS
 
 # POR GIT CLONE
