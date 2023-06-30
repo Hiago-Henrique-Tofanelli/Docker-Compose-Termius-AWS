@@ -15,27 +15,27 @@ cd compose-exemplo
 ```
 * ``` ls ```, para checar se os arquivos estão presentes
 * caso necessite alterar algum arquivo por linha de comando
-  ```
-  sudo apt install vim
-  ```
+```
+sudo apt install vim
+```
 
 * Exemplo alterando Docker file
 
-  ```
-  vim Dockerfile
-  ```
+```
+vim Dockerfile
+```
 
 *Para sair e salvar as alterações
 
-  ```
-  esc + :wq
-  ```
+```
+esc + :wq
+```
 
 * verificando se as informações do arquivo Dockerfile foram alteradas
   
-  ```
-  cat Dockerfile
-  ```
+```
+cat Dockerfile
+```
 
 * SUBIR ARQUIVOS DO COMPOSE
   
