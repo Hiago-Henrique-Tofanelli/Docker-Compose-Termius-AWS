@@ -1,5 +1,11 @@
 # Docker-Compose-Termius-AWS
 
+# Baixar dependências do Docker
+
+```
+curl -fsSL https://get.docker.com | bash
+```
+
 # POR SFTP
 
 * CRIAR AS PASTAS NO LINUX OU WINDOWS
